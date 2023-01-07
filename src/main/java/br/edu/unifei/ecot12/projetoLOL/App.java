@@ -39,7 +39,7 @@ public class App {
 		ionia.getLocais().add(monasterio);
 		ionia.setSoldados(3000);
 
-		//Arma1
+		//Arma1 - Rifle hextech
 		Fisico f1 = new Fisico();
 		f1.setDanoFisico(10);
 		Hextech h1 = new Hextech();
@@ -48,7 +48,7 @@ public class App {
 		pacificadora.setTipo("Rifle");
 		pacificadora.setPreco(1600);
 		
-		//Arma2
+		//Arma2 - Caduceu quimtech
 		Magico m1 = new Magico();
 		m1.setDanoMagico(8);
 		Quimtech q1 = new Quimtech();
@@ -57,7 +57,7 @@ public class App {
 		caduceu.setTipo("Caduceu Magico");
 		caduceu.setPreco(2000);
 		
-		//Arma3
+		//Arma3 - Arco  
 		Fisico f2 = new Fisico();
 		f2.setDanoFisico(7);
 		ArmaSimples arco = new ArmaSimples(f2);
