@@ -3,10 +3,12 @@ Projeto desenvolvido para a disciplina Projeto de Software, com o tema inspirado
 
 Foi feito o diagrama de classes em UML utilizando o software DIA, sendo que foram utlizandos o seguintes padrões de projeto, Padrão Objeto Unico, Padrão Estratégia e Padrão Ponte.
 
-Para a implementação do projeto foi utlizada a linguagem java.
+## Tecnologias Utilizadas
+
+- **Linguagem**: Java
 
 ## Diagrama UML
-![diagrama](https://github.com/jorgechristino/ProjetoLOL/edit/main/lol.png)
+![diagrama](https://github.com/jorgechristino/ProjetoLOL/blob/main/lol.png)
 
-Desenvolvedor:
+## Desenvolvedor
 - Jorge Christino dos Santos Ferreira
